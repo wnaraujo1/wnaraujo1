@@ -1,7 +1,11 @@
 <h3 align="center">
 😃<strong>Seja bem-vindo!!! Meu nome é Wellington, será um prazer recebê-lo(a) em minha página.</strong>
 </h3>
-  
+
+<div align="center">  
+👨‍🎓 Aluno do Curso de Sistemas de Informação.
+</div><br>
+
 <div align="center">
 💻 Atuamente atuo como estagiário na Reply Brasil em Belo Horizonte.
 </div><br>
@@ -16,7 +20,7 @@
 
 </p>
 <div align="center">
-  <h1>My Skills 👨‍🎓</h1>
+  <h1>My Skills 💡</h1>
 </div>
 
 <div align="center">
