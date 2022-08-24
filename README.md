@@ -3,11 +3,11 @@
 </h3>
 
 <div align="center">  
-👨‍🎓 Aluno do Curso de Sistemas de Informação.
+💻 Graduado em  Sistemas de Informação.
 </div><br>
 
 <div align="center">
-💻 Atuamente atuo como estagiário na Reply Brasil em Belo Horizonte.
+💻 Atuamente atuo como Dev .Net Jr. na Reply Brasil em Belo Horizonte.
 </div><br>
 
 <div align="center">
