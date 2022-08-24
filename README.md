@@ -7,7 +7,7 @@
 </div><br>
 
 <div align="center">
-💻 Atuamente atuo como Dev .Net Jr. na Reply Brasil em Belo Horizonte.
+💻 Atualmente atuo como Dev .Net Jr. na Reply Brasil em Belo Horizonte.
 </div><br>
 
 <div align="center">
